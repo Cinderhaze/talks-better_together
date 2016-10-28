@@ -380,6 +380,7 @@ Puppet Inventory
 ================
 
 .. code-block:: shell
+    #!/usr/bin/env python
 
     import json
     import subprocess
